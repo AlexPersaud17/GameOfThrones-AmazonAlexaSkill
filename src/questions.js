@@ -1,488 +1,505 @@
 'use strict';
 
 module.exports = {
-
+    /**
+     * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
+     * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
+     */
     "QUESTIONS_EN_GB" : [
         {
-            "Who says, No one can give you your freedom, brothers. If you want it, you must take it?": [
-                "Grey Worm",
-                "Missandei",
-                "Daenerys Targaryen",
-                "Daario Naharis"
+            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
+                "13,000",
+                "1,200",
+                "5,000",
+                "700",
+                "1,000",
+                "120,000"
             ]
         },
         {
-            "Who says, the worst ones always live?": [
-                "Sansa Stark",
-                "Arya Stark",
-                "Daenerys Targaryen",
-                "Cersei Lannister"
+            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
+                "Japan",
+                "United States",
+                "Finland",
+                "Germany",
+                "Canada",
+                "Norway",
+                "France"
             ]
         },
         {
-            "Which of the following is NOT a face of the Seven?": [
-                "The Widow",
-                "The Maiden",
-                "The Mother",
-                "The Stranger"
+            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
+                "Wunorse Openslae",
+                "Alabaster Snowball",
+                "Bushy Evergreen",
+                "Pepper Minstix"
             ]
         },
         {
-            "How did Daenerys Targaryen eventually hatch her dragon eggs?": [
-                "In a funeral pyre  ",
-                "In a lightning storm",
-                "In a fireplace",
-                "In a frozen cave"
+            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
+                "Girls",
+                "Boys",
+                "Girls and boys",
+                "No way to tell"
             ]
         },
         {
-            "How many times has Beric Dondarrion been brought back to life?": [
-                "Six times",
-                "Three times",
-                "Five times",
-                "Seven times"
+            "What do Reindeer eat?": [
+                "Lichen",
+                "Grasses",
+                "Leaves",
+                "Berries"
             ]
         },
         {
-            "Besides dragonglass, what is the only other substance capable of defeating White Walkers?": [
-                "Valyrian Steel",
-                "Weirwood",
-                "Wildfire",
-                "Snowballs"
+            "What of the following is not true?": [
+                "Caribou live on all continents",
+                "Both reindeer and Caribou are the same species",
+                "Caribou are bigger than reindeer",
+                "Reindeer live in Scandinavia and Russia"
             ]
         },
         {
-            "What is the only thing that can put out volatile Wildfire?": [
-                "Sand",
-                "Water",
-                "Dragons blood",
-                "Sunlight"
+            "In what year did Rudolph make his television debut?": [
+                "1964",
+                "1979",
+                "2000",
+                "1956"
             ]
         },
         {
-            "The phrase Valar Morghulis or all men must die is usually responded with?": [
-                "Valar Dohaeris or all men must serve",
-                "Valar Rohnas or all men must live",
-                "Valar GoGo or all men must dance",
-                "Valar Alex P or all men must code"
+            "Who was the voice of Rudolph in the 1964 classic?": [
+                "Billie Mae Richards",
+                "Burl Ives",
+                "Paul Soles",
+                "Lady Gaga"
             ]
         },
         {
-            "Which Stark family direwolf was killed in retaliation for an attack on Prince Joffrey?": [
-                "Lady",
-                "Ghost",
-                "Nymeria",
-                "Summer"
+            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
+                "Montgomery Ward",
+                "Sears",
+                "Macys",
+                "Kmart"
             ]
         },
         {
-            "Aryas punishment for stealing from the Many-Face God is?": [
-                "Blindness",
-                "Memory Loss",
-                "Death",
-                "Uncontrollable laughter"
+            "Santa\'s reindeer named Donner was originally named what?": [
+                "Dunder",
+                "Donny",
+                "Dweedle",
+                "Dreamy"
             ]
         },
         {
-            "Its nothing were the last words of this infamous character?": [
-                "King Joffrey",
-                "Renly Baratheon",
-                "Tywin Lannister",
-                "Robb Stark"
+            "Who invented the story of Rudolph?": [
+                "Robert May",
+                "Johnny Marks",
+                "Santa",
+                "J.K. Rowling"
             ]
         },
         {
-            "The name of King Tommen's favorite cat is?": [
-                "Ser Pounce",
-                "Battle Pus",
-                "Little Lion",
-                "Prince Fuzzy"
+            "In what location will you not find reindeer?": [
+                "North Pole",
+                "Lapland",
+                "Korvatunturi mountain",
+                "Finland"
             ]
         },
         {
-            "What was the name of Ned Starks greatsword?": [
-                "Ice",
-                "Oathkeeper",
-                "Widows Wail",
-                "Northguard"
+            "What Makes Santa\'s Reindeer Fly?": [
+                "Magical Reindeer Dust",
+                "Fusion",
+                "Amanita muscaria",
+                "Elves"
             ]
         },
         {
-            "Who shoots the flaming arrow that subsequently destroys Stannis fleet in Blackwater Bay?": [
-                "Bronn",
-                "Tyrion Lannister",
-                "King Joffrey",
-                "Jaime Lannister"
+            "Including Rudolph, how many reindeer hooves are there?": [
+                "36",
+                "24",
+                "16",
+                "8"
             ]
         },
         {
-            "Prince Oberyn Martell is nicknamed the Red Viper because of his combat and?": [
-                "Knowledge of poisons",
-                "Pride in drawing blood first",
-                "Nighttime attacks",
-                "Ruby colored armor"
+            "Santa only has one female reindeer. Which one is it?": [
+                "Vixen",
+                "Clarice",
+                "Cupid",
+                "Cupid"
             ]
         },
         {
-            "When expecting her child, Daenerys Targaryen must do what as part of a special Dothraki ceremony?": [
-                "Eat the raw heart of a stallion",
-                "Drink the blood",
-                "Eat seven dragon eggs",
-                "Spend seven days alone in the plains of Essos"
+            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
+                "Sam",
+                "Frosty",
+                "Burl",
+                "Snowy"
             ]
         },
         {
-            "Which of the following did Tyrion Lannister not say in Game of Thrones?": [
-                "I may be the imp, but Im no jackass",
-                "Oh, did I kill him too? Ive been a very busy man",
-                "Its not slander if its true",
-                "Its not easy being drunk all the time. If it were easy, everyone would do it."
+            "What was Rudolph\'s father\'s name?": [
+                "Donner",
+                "Dasher",
+                "Blixen",
+                "Comet"
             ]
         },
         {
-            "Who is the eldest child of Lady Catelyn and Lord Eddard Stark?": [
-                "Robb Stark",
-                "Bran Stark",
-                "Jon Snow",
-                "Sansa Stark"
+            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
+                "Comet",
+                "Blixen",
+                "Donner",
+                "Dasher"
             ]
         },
         {
-            "Drogo is a warlord of the nomadic horse-lord Dothraki people, and commands a tribe of tens of thousands. What is a Dothraki chieftain like Drogo called?": [
-                "A khal",
-                "A kzar",
-                "A ghazal",
-                "A grumpkin"
+            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
+                "Fireball",
+                "Clarice",
+                "Jumper",
+                "Vixen"
             ]
         },
         {
-            "The recorded history of Westeros goes back more than 12,000 years. Eight thousand years ago, Westeros was invaded by what mythological race?": [
-                "The White Walkers",
-                "The Weathered Ones",
-                "The Warlocks of Qarth",
-                "The Grumpkins"
+            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
+                "Black mud",
+                "Bag",
+                "Pillow case",
+                "Sock"
             ]
         },
         {
-            "Which of the following is NOT one of the Seven Kingdoms of Westeros?": [
-                "Kingdom of the Ironborn",
-                "Kingdom of the North",
-                "Kingdom of the Mountain and the Vale",
-                "Principality of Dorne"
+            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
+                "Dentist",
+                "Reindeer",
+                "Toy maker",
+                "Candlestick maker"
             ]
         },
         {
-            "Who are the law enforcers who act as policemen of King’s Landing?": [
-                "City Watch",
-                "Brotherhood without Banners",
-                "Order of Maesters",
-                "Faceless Men"
+            "In the 1964 movie,what was the Bumble\'s one weakness?": [
+                "Could not swim",
+                "Always hungry",
+                "Candy canes",
+                "Cross eyed"
             ]
         },
         {
-            "In Baelor, the ninth episode of the first season, Lord Eddard Stark is beheaded. What is the name of Valyrian steel greatsword that is used to slice off his head?": [
-                "Ice",
-                "Glamdring",
-                "Stinger",
-                "The Firebrand"
+            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
+                "Peppermint",
+                "Gold",
+                "India",
+                "Polar Bears"
             ]
         },
         {
-            "In the third season, in what has become known as the Red Wedding scene, Roose Bolton stabs Robb Stark in the heart. What words does Bolton whisper in Stark’s ear before murdering him?": [
-                "The Lannisters send their regards",
-                "Chaos isnt a pit. Chaos is a ladder",
-                "If you think this has a happy ending, you havent been paying attention",
+            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
+                "Square wheels",
+                "No Engine",
+                "Paint does not match",
                 "It does not toot"
             ]
         },
         {
-            "In the eighth episode of the fifth season, Jon Snow and Tormund Giantsbane journey to the town Hardhome to convince the Wildlings of what?": [
-                "To join them in their war against the White Walkers and their armies of Wights",
-                "To stop overfishing the Shivering Sea",
-                "To stop an attack from the Sons of the Harpy",
-                "To help them find a craftsman to sharpen their dragonglass weapons"
+            "In the 1964 movie, what is the name of the Jack in the Box?": [
+                "Charlie",
+                "Sam",
+                "Billy",
+                "Jack"
             ]
         },
         {
-            "What is Pycelles official title in the Red Keep?": [
-                "Grand Maester",
-                "Master of Coin",
-                "Games Maester",
-                "Lord Commander of the Kingsguard"
+            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
+                "Storm",
+                "No snow",
+                "No toys",
+                "The Reindeer were sick"
             ]
         },
         {
-            "Which Lannister song signalled doom at the Red Wedding?": [
-                "The Rains of Castamere",
-                "A Golden Crown",
-                "An Assassins Dagger",
-                "Tales of Topographic Oceans"
+            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
+                "Oink",
+                "Growl",
+                "Bark",
+                "Meow"
             ]
         },
         {
-            "Whose skull was crushed like an egg by The Mountain's giant hands?": [
-                "Oberyn Martell",
-                "Lady the Direwolf",
-                "Beric Dondarrion",
-                "Auric Goldfinger"
+            "In the 1964 movie, what is the name of the prospector?": [
+                "Yukon Cornelius",
+                "Slider Sam",
+                "Bumble",
+                "Jack"
             ]
         },
         {
-            "Who had molten gold poured over their head like a deadly Noel's House Party gunge tank?": [
-                "Viserys Targaryen",
-                "Robb Stark",
-                "Khal Drogo",
-                "Aloo Gobi"
+            "How far do reindeer travel when they migrate?": [
+                "3000 miles",
+                "700 miles",
+                "500 miles",
+                "0 miles"
             ]
         },
         {
-            "How is Ser Davos colloquially known as?": [
-                "The Potato Lord",
-                "The Cabbage Duke",
-                "The Onion Knight",
-                "The Beetroot Lord"
+            "How fast can a reindeer run?": [
+                "48 miles per hour",
+                "17 miles per hour",
+                "19 miles per hour",
+                "14 miles per hour",
+                "52 miles per hour",
+                "41 miles per hour"
             ]
         }
     ],
     "QUESTIONS_EN_US" : [
         {
-            "Who says, No one can give you your freedom, brothers. If you want it, you must take it?": [
-                "Grey Worm",
-                "Missandei",
-                "Daenerys Targaryen",
-                "Daario Naharis"
+            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
+                "13,000",
+                "1,200",
+                "5,000",
+                "700",
+                "1,000",
+                "120,000"
             ]
         },
         {
-            "Who says, the worst ones always live?": [
-                "Sansa Stark",
-                "Arya Stark",
-                "Daenerys Targaryen",
-                "Cersei Lannister"
+            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
+                "Japan",
+                "United States",
+                "Finland",
+                "Germany",
+                "Canada",
+                "Norway",
+                "France"
             ]
         },
         {
-            "Which of the following is NOT a face of the Seven?": [
-                "The Widow",
-                "The Maiden",
-                "The Mother",
-                "The Stranger"
+            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
+                "Wunorse Openslae",
+                "Alabaster Snowball",
+                "Bushy Evergreen",
+                "Pepper Minstix"
             ]
         },
         {
-            "How did Daenerys Targaryen eventually hatch her dragon eggs?": [
-                "In a funeral pyre",
-                "In a lightning storm",
-                "In a fireplace",
-                "In a frozen cave"
+            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
+                "Girls",
+                "Boys",
+                "Girls and boys",
+                "No way to tell"
             ]
         },
         {
-            "How many times has Beric Dondarrion been brought back to life?": [
-                "Six times",
-                "Three times",
-                "Five times",
-                "Seven times"
+            "What do Reindeer eat?": [
+                "Lichen",
+                "Grasses",
+                "Leaves",
+                "Berries"
             ]
         },
         {
-            "Besides dragonglass, what is the only other substance capable of defeating White Walkers?": [
-                "Valyrian Steel",
-                "Weirwood",
-                "Wildfire",
-                "Snowballs"
+            "What of the following is not true?": [
+                "Caribou live on all continents",
+                "Both reindeer and Caribou are the same species",
+                "Caribou are bigger than reindeer",
+                "Reindeer live in Scandinavia and Russia"
             ]
         },
         {
-            "What is the only thing that can put out volatile Wildfire?": [
-                "Sand",
-                "Water",
-                "Dragons blood",
-                "Sunlight"
+            "In what year did Rudolph make his television debut?": [
+                "1964",
+                "1979",
+                "2000",
+                "1956"
             ]
         },
         {
-            "The phrase Valar Morghulis or all men must die is usually responded with?": [
-                "Valar Dohaeris or all men must serve",
-                "Valar Rohnas or all men must live",
-                "Valar GoGo or all men must dance",
-                "Valar Alex P or all men must code"
+            "Who was the voice of Rudolph in the 1964 classic?": [
+                "Billie Mae Richards",
+                "Burl Ives",
+                "Paul Soles",
+                "Lady Gaga"
             ]
         },
         {
-            "Which Stark family direwolf was killed in retaliation for an attack on Prince Joffrey?": [
-                "Lady",
-                "Ghost",
-                "Nymeria",
-                "Summer"
+            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
+                "Montgomery Ward",
+                "Sears",
+                "Macys",
+                "Kmart"
             ]
         },
         {
-            "Aryas punishment for stealing from the Many-Face God is?": [
-                "Blindness",
-                "Memory Loss",
-                "Death",
-                "Uncontrollable laughter"
+            "Santa\'s reindeer named Donner was originally named what?": [
+                "Dunder",
+                "Donny",
+                "Dweedle",
+                "Dreamy"
             ]
         },
         {
-            "Its nothing were the last words of this infamous character?": [
-                "King Joffrey",
-                "Renly Baratheon",
-                "Tywin Lannister",
-                "Robb Stark"
+            "Who invented the story of Rudolph?": [
+                "Robert May",
+                "Johnny Marks",
+                "Santa",
+                "J.K. Rowling"
             ]
         },
         {
-            "The name of King Tommen's favorite cat is?": [
-                "Ser Pounce",
-                "Battle Pus",
-                "Little Lion",
-                "Prince Fuzzy"
+            "In what location will you not find reindeer?": [
+                "North Pole",
+                "Lapland",
+                "Korvatunturi mountain",
+                "Finland"
             ]
         },
         {
-            "What was the name of Ned Starks greatsword?": [
-                "Ice",
-                "Oathkeeper",
-                "Widows Wail",
-                "Northguard"
+            "What Makes Santa\'s Reindeer Fly?": [
+                "Magical Reindeer Dust",
+                "Fusion",
+                "Amanita muscaria",
+                "Elves"
             ]
         },
         {
-            "Who shoots the flaming arrow that subsequently destroys Stannis fleet in Blackwater Bay?": [
-                "Bronn",
-                "Tyrion Lannister",
-                "King Joffrey",
-                "Jaime Lannister"
+            "Including Rudolph, how many reindeer hooves are there?": [
+                "36",
+                "24",
+                "16",
+                "8"
             ]
         },
         {
-            "Prince Oberyn Martell is nicknamed the Red Viper because of his combat and?": [
-                "Knowledge of poisons",
-                "Pride in drawing blood first",
-                "Nighttime attacks",
-                "Ruby colored armor"
+            "Santa only has one female reindeer. Which one is it?": [
+                "Vixen",
+                "Clarice",
+                "Cupid",
+                "Cupid"
             ]
         },
         {
-            "When expecting her child, Daenerys Targaryen must do what as part of a special Dothraki ceremony?": [
-                "Eat the raw heart of a stallion",
-                "Drink the blood",
-                "Eat seven dragon eggs",
-                "Spend seven days alone in the plains of Essos"
+            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
+                "Sam",
+                "Frosty",
+                "Burl",
+                "Snowy"
             ]
         },
         {
-            "Which of the following did Tyrion Lannister not say in Game of Thrones?": [
-                "I may be the imp, but Im no jackass",
-                "Oh, did I kill him too? Ive been a very busy man",
-                "Its not slander if its true",
-                "Its not easy being drunk all the time. If it were easy, everyone would do it."
+            "What was Rudolph\'s father\'s name?": [
+                "Donner",
+                "Dasher",
+                "Blixen",
+                "Comet"
             ]
         },
         {
-            "Who is the eldest child of Lady Catelyn and Lord Eddard Stark?": [
-                "Robb Stark",
-                "Bran Stark",
-                "Jon Snow",
-                "Sansa Stark"
+            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
+                "Comet",
+                "Blixen",
+                "Donner",
+                "Dasher"
             ]
         },
         {
-            "Drogo is a warlord of the nomadic horse-lord Dothraki people, and commands a tribe of tens of thousands. What is a Dothraki chieftain like Drogo called?": [
-                "A khal",
-                "A kzar",
-                "A ghazal",
-                "A grumpkin"
+            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
+                "Fireball",
+                "Clarice",
+                "Jumper",
+                "Vixen"
             ]
         },
         {
-            "The recorded history of Westeros goes back more than 12,000 years. Eight thousand years ago, Westeros was invaded by what mythological race?": [
-                "The White Walkers",
-                "The Weathered Ones",
-                "The Warlocks of Qarth",
-                "The Grumpkins"
+            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
+                "Black mud",
+                "Bag",
+                "Pillow case",
+                "Sock"
             ]
         },
         {
-            "Which of the following is NOT one of the Seven Kingdoms of Westeros?": [
-                "Kingdom of the Ironborn",
-                "Kingdom of the North",
-                "Kingdom of the Mountain and the Vale",
-                "Principality of Dorne"
+            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
+                "Dentist",
+                "Reindeer",
+                "Toy maker",
+                "Candlestick maker"
             ]
         },
         {
-            "Who are the law enforcers who act as policemen of King’s Landing?": [
-                "City Watch",
-                "Brotherhood without Banners",
-                "Order of Maesters",
-                "Faceless Men"
+            "In the 1964 movie,what was the Bumble\'s one weakness?": [
+                "Could not swim",
+                "Always hungry",
+                "Candy canes",
+                "Cross eyed"
             ]
         },
         {
-            "In Baelor, the ninth episode of the first season, Lord Eddard Stark is beheaded. What is the name of Valyrian steel greatsword that is used to slice off his head?": [
-                "Ice",
-                "Glamdring",
-                "Stinger",
-                "The Firebrand"
+            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
+                "Peppermint",
+                "Gold",
+                "India",
+                "Polar Bears"
             ]
         },
         {
-            "In the third season, in what has become known as the Red Wedding scene, Roose Bolton stabs Robb Stark in the heart. What words does Bolton whisper in Stark’s ear before murdering him?": [
-                "The Lannisters send their regards",
-                "Chaos isnt a pit. Chaos is a ladder",
-                "If you think this has a happy ending, you havent been paying attention",
+            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
+                "Square wheels",
+                "No Engine",
+                "Paint does not match",
                 "It does not toot"
             ]
         },
         {
-            "In the eighth episode of the fifth season, Jon Snow and Tormund Giantsbane journey to the town Hardhome to convince the Wildlings of what?": [
-                "To join them in their war against the White Walkers and their armies of Wights",
-                "To stop overfishing the Shivering Sea",
-                "To stop an attack from the Sons of the Harpy",
-                "To help them find a craftsman to sharpen their dragonglass weapons"
+            "In the 1964 movie, what is the name of the Jack in the Box?": [
+                "Charlie",
+                "Sam",
+                "Billy",
+                "Jack"
             ]
         },
         {
-            "What is Pycelles official title in the Red Keep?": [
-                "Grand Maester",
-                "Master of Coin",
-                "Games Maester",
-                "Lord Commander of the Kingsguard"
+            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
+                "Storm",
+                "No snow",
+                "No toys",
+                "The Reindeer were sick"
             ]
         },
         {
-            "Which Lannister song signalled doom at the Red Wedding?": [
-                "The Rains of Castamere",
-                "A Golden Crown",
-                "An Assassins Dagger",
-                "Tales of Topographic Oceans"
+            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
+                "Oink",
+                "Growl",
+                "Bark",
+                "Meow"
             ]
         },
         {
-            "Whose skull was crushed like an egg by The Mountain's giant hands?": [
-                "Oberyn Martell",
-                "Lady the Direwolf",
-                "Beric Dondarrion",
-                "Auric Goldfinger"
+            "In the 1964 movie, what is the name of the prospector?": [
+                "Yukon Cornelius",
+                "Slider Sam",
+                "Bumble",
+                "Jack"
             ]
         },
         {
-            "Who had molten gold poured over their head like a deadly Noel's House Party gunge tank?": [
-                "Viserys Targaryen",
-                "Robb Stark",
-                "Khal Drogo",
-                "Aloo Gobi"
+            "How far do reindeer travel when they migrate?": [
+                "3000 miles",
+                "700 miles",
+                "500 miles",
+                "0 miles"
             ]
         },
         {
-            "How is Ser Davos colloquially known as?": [
-                "The Potato Lord",
-                "The Cabbage Duke",
-                "The Onion Knight",
-                "The Beetroot Lord"
+            "How fast can a reindeer run?": [
+                "48 miles per hour",
+                "17 miles per hour",
+                "19 miles per hour",
+                "14 miles per hour",
+                "52 miles per hour",
+                "41 miles per hour"
             ]
         }
     ],
@@ -735,4 +752,4 @@ module.exports = {
             ]
         }
     ]
-}
+};
