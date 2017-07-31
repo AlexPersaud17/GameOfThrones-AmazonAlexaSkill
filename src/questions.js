@@ -1,13 +1,10 @@
 'use strict';
 
 module.exports = {
-    /**
-     * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
-     * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
-     */
+
     "QUESTIONS_EN_GB" : [
         {
-            "Who says, \'No one can give you your freedom, brothers. If you want it, you must take it\'?": [
+            "Who says, No one can give you your freedom, brothers. If you want it, you must take it?": [
                 "Grey Worm",
                 "Missandei",
                 "Daenerys Targaryen",
@@ -15,7 +12,7 @@ module.exports = {
             ]
         },
         {
-            "Who says, \'the worst ones always live\'?": [
+            "Who says, the worst ones always live?": [
                 "Sansa Stark",
                 "Arya Stark",
                 "Daenerys Targaryen",
@@ -23,7 +20,7 @@ module.exports = {
             ]
         },
         {
-            "Which of the following is NOT a face of \'the Seven\'?": [
+            "Which of the following is NOT a face of the Seven?": [
                 "The Widow",
                 "The Maiden",
                 "The Mother",
@@ -58,16 +55,16 @@ module.exports = {
             "What is the only thing that can put out volatile Wildfire?": [
                 "Sand",
                 "Water",
-                "Dragon\'s blood",
+                "Dragons blood",
                 "Sunlight"
             ]
         },
         {
-            "The phrase \'Valar Morghulis\' or \'all men must die\' is usually responded with?": [
-                "Valar Dohaeris or \'all men must serve\'",
-                "Valar Rohnas or \'all men must live\'",
-                "Valar GoGo or \'all men must dance\'",
-                "Valar Alex P or \'all men must code\'"
+            "The phrase Valar Morghulis or all men must die is usually responded with?": [
+                "Valar Dohaeris or all men must serve",
+                "Valar Rohnas or all men must live",
+                "Valar GoGo or all men must dance",
+                "Valar Alex P or all men must code"
             ]
         },
         {
@@ -79,7 +76,7 @@ module.exports = {
             ]
         },
         {
-            "Arya\'s punishment for stealing from the Many-Face God is?": [
+            "Aryas punishment for stealing from the Many-Face God is?": [
                 "Blindness",
                 "Memory Loss",
                 "Death",
@@ -87,7 +84,7 @@ module.exports = {
             ]
         },
         {
-            "\'It\'s nothing\' were the last words of this infamous character?": [
+            "Its nothing were the last words of this infamous character?": [
                 "King Joffrey",
                 "Renly Baratheon",
                 "Tywin Lannister",
@@ -103,15 +100,15 @@ module.exports = {
             ]
         },
         {
-            "What was the name of Ned Stark\'s greatsword?": [
+            "What was the name of Ned Starks greatsword?": [
                 "Ice",
                 "Oathkeeper",
-                "Widow\'s Wail",
+                "Widows Wail",
                 "Northguard"
             ]
         },
         {
-            "Who shoots the flaming arrow that subsequently destroy\'s Stannis\' fleet in Blackwater Bay?": [
+            "Who shoots the flaming arrow that subsequently destroys Stannis fleet in Blackwater Bay?": [
                 "Bronn",
                 "Tyrion Lannister",
                 "King Joffrey",
@@ -119,7 +116,7 @@ module.exports = {
             ]
         },
         {
-            "Prince Oberyn Martell is nicknamed the \'Red Viper\' because of his combat and?": [
+            "Prince Oberyn Martell is nicknamed the Red Viper because of his combat and?": [
                 "Knowledge of poisons",
                 "Pride in drawing blood first",
                 "Nighttime attacks",
@@ -135,11 +132,11 @@ module.exports = {
             ]
         },
         {
-            "Which of the following did Tyrion Lannister not say in \'Game of Thrones\'?": [
-                "I may be the imp, but I\'m no jackass",
-                "Oh, did I kill him too? I\'ve been a very busy man",
-                "It\'s not slander if its true",
-                "It\'s not easy being drunk all the time. If it were easy, everyone would do it."
+            "Which of the following did Tyrion Lannister not say in Game of Thrones?": [
+                "I may be the imp, but Im no jackass",
+                "Oh, did I kill him too? Ive been a very busy man",
+                "Its not slander if its true",
+                "Its not easy being drunk all the time. If it were easy, everyone would do it."
             ]
         },
         {
@@ -183,7 +180,7 @@ module.exports = {
             ]
         },
         {
-            "In \'Baelor,\' the ninth episode of the first season, Lord Eddard Stark is beheaded. What is the name of Valyrian steel greatsword that is used to slice off his head?": [
+            "In Baelor, the ninth episode of the first season, Lord Eddard Stark is beheaded. What is the name of Valyrian steel greatsword that is used to slice off his head?": [
                 "Ice",
                 "Glamdring",
                 "Stinger",
@@ -191,10 +188,10 @@ module.exports = {
             ]
         },
         {
-            "In the third season, in what has become known as the \'Red Wedding\' scene, Roose Bolton stabs Robb Stark in the heart. What words does Bolton whisper in Stark’s ear before murdering him?": [
+            "In the third season, in what has become known as the Red Wedding scene, Roose Bolton stabs Robb Stark in the heart. What words does Bolton whisper in Stark’s ear before murdering him?": [
                 "The Lannisters send their regards",
-                "Chaos isn\'t a pit. Chaos is a ladder",
-                "If you think this has a happy ending, you haven\'t been paying attention",
+                "Chaos isnt a pit. Chaos is a ladder",
+                "If you think this has a happy ending, you havent been paying attention",
                 "It does not toot"
             ]
         },
@@ -207,7 +204,7 @@ module.exports = {
             ]
         },
         {
-            "What is Pycelle\'s official title in the Red Keep?": [
+            "What is Pycelles official title in the Red Keep?": [
                 "Grand Maester",
                 "Master of Coin",
                 "Games Maester",
@@ -218,7 +215,7 @@ module.exports = {
             "Which Lannister song signalled doom at the Red Wedding?": [
                 "The Rains of Castamere",
                 "A Golden Crown",
-                "An Assassin\'s Dagger",
+                "An Assassins Dagger",
                 "Tales of Topographic Oceans"
             ]
         },
@@ -249,7 +246,7 @@ module.exports = {
     ],
     "QUESTIONS_EN_US" : [
         {
-            "Who says, \'No one can give you your freedom, brothers. If you want it, you must take it\'?": [
+            "Who says, No one can give you your freedom, brothers. If you want it, you must take it?": [
                 "Grey Worm",
                 "Missandei",
                 "Daenerys Targaryen",
@@ -257,7 +254,7 @@ module.exports = {
             ]
         },
         {
-            "Who says, \'the worst ones always live\'?": [
+            "Who says, the worst ones always live?": [
                 "Sansa Stark",
                 "Arya Stark",
                 "Daenerys Targaryen",
@@ -265,7 +262,7 @@ module.exports = {
             ]
         },
         {
-            "Which of the following is NOT a face of \'the Seven\'?": [
+            "Which of the following is NOT a face of the Seven?": [
                 "The Widow",
                 "The Maiden",
                 "The Mother",
@@ -274,7 +271,7 @@ module.exports = {
         },
         {
             "How did Daenerys Targaryen eventually hatch her dragon eggs?": [
-                "In a funeral pyre  ",
+                "In a funeral pyre",
                 "In a lightning storm",
                 "In a fireplace",
                 "In a frozen cave"
@@ -300,16 +297,16 @@ module.exports = {
             "What is the only thing that can put out volatile Wildfire?": [
                 "Sand",
                 "Water",
-                "Dragon\'s blood",
+                "Dragons blood",
                 "Sunlight"
             ]
         },
         {
-            "The phrase \'Valar Morghulis\' or \'all men must die\' is usually responded with?": [
-                "Valar Dohaeris or \'all men must serve\'",
-                "Valar Rohnas or \'all men must live\'",
-                "Valar GoGo or \'all men must dance\'",
-                "Valar Alex P or \'all men must code\'"
+            "The phrase Valar Morghulis or all men must die is usually responded with?": [
+                "Valar Dohaeris or all men must serve",
+                "Valar Rohnas or all men must live",
+                "Valar GoGo or all men must dance",
+                "Valar Alex P or all men must code"
             ]
         },
         {
@@ -321,7 +318,7 @@ module.exports = {
             ]
         },
         {
-            "Arya\'s punishment for stealing from the Many-Face God is?": [
+            "Aryas punishment for stealing from the Many-Face God is?": [
                 "Blindness",
                 "Memory Loss",
                 "Death",
@@ -329,7 +326,7 @@ module.exports = {
             ]
         },
         {
-            "\'It\'s nothing\' were the last words of this infamous character?": [
+            "Its nothing were the last words of this infamous character?": [
                 "King Joffrey",
                 "Renly Baratheon",
                 "Tywin Lannister",
@@ -345,15 +342,15 @@ module.exports = {
             ]
         },
         {
-            "What was the name of Ned Stark\'s greatsword?": [
+            "What was the name of Ned Starks greatsword?": [
                 "Ice",
                 "Oathkeeper",
-                "Widow\'s Wail",
+                "Widows Wail",
                 "Northguard"
             ]
         },
         {
-            "Who shoots the flaming arrow that subsequently destroy\'s Stannis\' fleet in Blackwater Bay?": [
+            "Who shoots the flaming arrow that subsequently destroys Stannis fleet in Blackwater Bay?": [
                 "Bronn",
                 "Tyrion Lannister",
                 "King Joffrey",
@@ -361,7 +358,7 @@ module.exports = {
             ]
         },
         {
-            "Prince Oberyn Martell is nicknamed the \'Red Viper\' because of his combat and?": [
+            "Prince Oberyn Martell is nicknamed the Red Viper because of his combat and?": [
                 "Knowledge of poisons",
                 "Pride in drawing blood first",
                 "Nighttime attacks",
@@ -377,11 +374,11 @@ module.exports = {
             ]
         },
         {
-            "Which of the following did Tyrion Lannister not say in \'Game of Thrones\'?": [
-                "I may be the imp, but I\'m no jackass",
-                "Oh, did I kill him too? I\'ve been a very busy man",
-                "It\'s not slander if its true",
-                "It\'s not easy being drunk all the time. If it were easy, everyone would do it."
+            "Which of the following did Tyrion Lannister not say in Game of Thrones?": [
+                "I may be the imp, but Im no jackass",
+                "Oh, did I kill him too? Ive been a very busy man",
+                "Its not slander if its true",
+                "Its not easy being drunk all the time. If it were easy, everyone would do it."
             ]
         },
         {
@@ -425,7 +422,7 @@ module.exports = {
             ]
         },
         {
-            "In \'Baelor,\' the ninth episode of the first season, Lord Eddard Stark is beheaded. What is the name of Valyrian steel greatsword that is used to slice off his head?": [
+            "In Baelor, the ninth episode of the first season, Lord Eddard Stark is beheaded. What is the name of Valyrian steel greatsword that is used to slice off his head?": [
                 "Ice",
                 "Glamdring",
                 "Stinger",
@@ -433,10 +430,10 @@ module.exports = {
             ]
         },
         {
-            "In the third season, in what has become known as the \'Red Wedding\' scene, Roose Bolton stabs Robb Stark in the heart. What words does Bolton whisper in Stark’s ear before murdering him?": [
+            "In the third season, in what has become known as the Red Wedding scene, Roose Bolton stabs Robb Stark in the heart. What words does Bolton whisper in Stark’s ear before murdering him?": [
                 "The Lannisters send their regards",
-                "Chaos isn\'t a pit. Chaos is a ladder",
-                "If you think this has a happy ending, you haven\'t been paying attention",
+                "Chaos isnt a pit. Chaos is a ladder",
+                "If you think this has a happy ending, you havent been paying attention",
                 "It does not toot"
             ]
         },
@@ -449,7 +446,7 @@ module.exports = {
             ]
         },
         {
-            "What is Pycelle\'s official title in the Red Keep?": [
+            "What is Pycelles official title in the Red Keep?": [
                 "Grand Maester",
                 "Master of Coin",
                 "Games Maester",
@@ -460,7 +457,7 @@ module.exports = {
             "Which Lannister song signalled doom at the Red Wedding?": [
                 "The Rains of Castamere",
                 "A Golden Crown",
-                "An Assassin\'s Dagger",
+                "An Assassins Dagger",
                 "Tales of Topographic Oceans"
             ]
         },
@@ -738,4 +735,4 @@ module.exports = {
             ]
         }
     ]
-};
+}
