@@ -18,15 +18,15 @@ var languageString = {
     "en": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "Reindeer Trivia", // Be sure to change this for your skill.
-            "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the number of the answer. " +
+            "GAME_NAME" : "Game Of Thrones Trivia", // Be sure to change this for your skill.
+            "HELP_MESSAGE": "I will ask you some multiple choice questions. Respond with the number of the answer. " +
             "For example, say one, two, three, or four. To start a new game at any time, say, start game. ",
             "REPEAT_QUESTION_MESSAGE": "To repeat the last question, say, repeat. ",
             "ASK_MESSAGE_START": "Would you like to start playing?",
             "HELP_REPROMPT": "To give an answer to a question, respond with the number of the answer. ",
             "STOP_MESSAGE": "Would you like to keep playing?",
-            "CANCEL_MESSAGE": "Ok, let\'s play again soon.",
-            "NO_MESSAGE": "Ok, we\'ll play another time. Goodbye!",
+            "CANCEL_MESSAGE": "Ok, let\'s play again soon. Alex Persaud says thank you for playing!",
+            "NO_MESSAGE": "Ok, we\'ll play another time. Goodbye and Alex Persaud says thank you for playing!!",
             "TRIVIA_UNHANDLED": "Try saying a number between 1 and %s",
             "HELP_UNHANDLED": "Say yes to continue, or no to end the game.",
             "START_UNHANDLED": "Say start to start a new game.",
@@ -38,20 +38,20 @@ var languageString = {
             "CORRECT_ANSWER_MESSAGE": "The correct answer is %s: %s. ",
             "ANSWER_IS_MESSAGE": "That answer is ",
             "TELL_QUESTION_MESSAGE": "Question %s. %s ",
-            "GAME_OVER_MESSAGE": "You got %s out of %s questions correct. Thank you for playing!",
+            "GAME_OVER_MESSAGE": "You got %s out of %s questions correct. Alex Persaud says thank you for playing!",
             "SCORE_IS_MESSAGE": "Your score is %s. "
         }
     },
     "en-US": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "American Reindeer Trivia" // Be sure to change this for your skill.
+            "GAME_NAME" : "Game of Thrones Trivia" // Be sure to change this for your skill.
         }
     },
     "en-GB": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_GB"],
-            "GAME_NAME" : "British Reindeer Trivia" // Be sure to change this for your skill.
+            "GAME_NAME" : "Game of Thrones Trivia" // Be sure to change this for your skill.
         }
     },
     "de": {
